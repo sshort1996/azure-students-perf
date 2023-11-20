@@ -1,0 +1,9 @@
+{
+	"name": "Shanes-ADF-Sandbox",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bcdd8423-c42a-4539-8466-29b6b8964d96",
+		"tenantId": "c8bde7e2-fdc1-4119-897e-6c5c986ef865"
+	}
+}
